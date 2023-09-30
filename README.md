@@ -46,3 +46,10 @@ Tab = Alt + Enter
 
 ```
 
+
+## Links
+
+- [Give your Beepy a fresh start!](https://github.com/wildoracle/beepy) - I used this instructions to set up my Beepy (with the official instructions, keyboard input did not work)
+- [beepy-directfb](https://github.com/hack-shack/beepy-directfb2) - Cool graphics!
+- [CJK support on Beepy (both display and input)](https://gist.github.com/charlestsai1995/54ab65a87e2e063ea25eb3aec4193fe1) - Japanese on Beepy!!
+
