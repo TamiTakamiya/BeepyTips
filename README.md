@@ -54,3 +54,4 @@ Tab = Alt + Enter
 - [CJK support on Beepy (both display and input)](https://gist.github.com/charlestsai1995/54ab65a87e2e063ea25eb3aec4193fe1) - Japanese on Beepy!!
 
 - [lfb - LUA library to draw to Lunux Framebuffers](https://github.com/max1220/lfb)
+    - [Demo video](https://youtube.com/shorts/cM2yZPYxL8M?si=z1XoEMMBVQppJlWz)
